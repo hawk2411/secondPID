@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file alias="circle.png">./resource/circle.png</file>
+    <file alias="line.png">./resource/line.png</file>
+    <file alias="lupe_minus.png">./resource/lupe_minus.png</file>
+    <file alias="lupe_plus.png">./resource/lupe_plus.png</file>
+    <file alias="rectangle.png">./resource/rectangle.png</file>
+    <file alias="select_arrow.png">./resource/select_arrow.png</file>
+    <file alias="text.png">./resource/text.png</file>
+  </qresource>
+</RCC>
