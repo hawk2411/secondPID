@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = secondQ5
+TARGET = secondPID
 TEMPLATE = app
 
 
@@ -66,6 +66,6 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui
 
-OTHER_FILES += secondQ5.pro.user
+OTHER_FILES += secondPID.pro.user
 
 RESOURCES += second.qrc
