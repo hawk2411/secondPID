@@ -15,9 +15,9 @@
 
 #include "mainwindow.h"
 #ifdef QT_DEBUG
-#include "../build-secondQ5-Desktop-Debug/ui_mainwindow.h"
+#include "../build-secondPID-Desktop-Debug/ui_mainwindow.h"
 #else
-#include "../build-secondQ5-Desktop-Release/ui_mainwindow.h"
+#include "../build-secondPID-Desktop-Release/ui_mainwindow.h"
 #endif
 
 
